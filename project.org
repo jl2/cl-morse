@@ -1,0 +1,23 @@
+* cl-morse
+** About
+This is a project for converting English text toITU Morse code.
+
+
+** Example
+   #+begin_src lisp
+     (ql:quickload :cl-morse)
+     ;; Show Morse Code for the author's Ham call sign and play
+     ;; as audio tones.
+     (cl-morse:generate-morse-code-sound "KC0JSL")
+   #+end_src
+
+   #+RESULTS:
+   : NIL
+
+** License
+ISC
+
+Copyright (c) 2021 Jeremiah LaRocco <jeremiah_larocco@fastmail.com>
+
+* Plan
+** TODO Implement decode-morse
