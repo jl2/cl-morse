@@ -2,7 +2,7 @@
 ### _Jeremiah LaRocco <jeremiah_larocco@fastmail.com>_
 
 This is a project to generate Morse Code.
-See [project.org](http://github.com/jl2/cl-morse/project.org) for more info and usage examples.
+See [project.org](https://github.com/jl2/cl-morse/blob/master/project.org) for more info and usage examples.
 
 ## License
 
